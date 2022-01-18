@@ -1,16 +1,14 @@
-### Hi there 👋
+# [![Suzon Khan header](https://suzonkhan.github.io/suzonkhan/images/suzonkhan-banner.png)](https://suzonkhan.com)
 
-<!--
-**suzonkhan/suzonkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there 👋,
+I am a Frontend and WordPress Theme Developer. Working this field since 2011. First of all, I am an award winner Frontend Developer and expert on UI/UX. 100% pixel perfect HTML/CSS conversions and cross browser combative job is a common task for me. On the other hand, I have been developing WordPress Theme since 2013. I love WordPress and I am very good at this.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I do?
+- [UI/UX Design](https://suzonkhan.github.io/portfolio-2/) - Creating game-changing products that evoke a sense of excitement, closeness and satisfaction for the user.
+- [Frontend Development](https://suzonkhan.github.io/portfolio-2/) - Develop 100% pixel perfect and mobile friendly website from any UI design. Also improving existing UI/UX for any application.
+- [WP Theme Development](https://suzonkhan.github.io/portfolio-2/) - I have developed 500+ WordPress website for different clients. Also develop some premium WP theme for different marketplace
+- [Digital Marketing & SEO](https://suzonkhan.github.io/portfolio-2/) - Doing digital marketing & SEO for my personal business and for my nearest client. SEO skill helps to create optimize website for all.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzonkhan)](https://github.com/suzonkhan/github-readme-stats)
