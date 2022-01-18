@@ -11,4 +11,9 @@ I am a Frontend and WordPress Theme Developer. Working this field since 2011. Fi
 - [WP Theme Development](https://suzonkhan.github.io/portfolio-2/) - I have developed 500+ WordPress website for different clients. Also develop some premium WP theme for different marketplace
 - [Digital Marketing & SEO](https://suzonkhan.github.io/portfolio-2/) - Doing digital marketing & SEO for my personal business and for my nearest client. SEO skill helps to create optimize website for all.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzonkhan)](https://github.com/suzonkhan/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/suzonkhan">
+    <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suzonkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suzonkhan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
